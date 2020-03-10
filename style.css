@@ -1,0 +1,31 @@
+body {
+  background-color: red;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  unicode-bidi: plaintext;
+  text-transform: uppercase;
+  white-space: initial;
+  font-weight: bold;
+  text-decoration-color: ivory;
+  text-shadow: lightgray;
+}
+
+ul {
+  list-style-type: none;
+  padding: 20px;
+  margin: 0;
+  background: none;
+}
+#logo {
+  height: 40px;
+}
+
+#menu {
+  background: transparent;
+  border: none;
+}
